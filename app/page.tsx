@@ -23,7 +23,7 @@ export default function Home() {
               Email: <a href="mailto:vantien2112@gmail.com" className="text-blue-500">vantien2112@gmail.com</a>
             </p>
             <p className="text-base text-gray-600">
-              Location: Can Tho, Viet
+              Location: Can Tho, Viet Nam
             </p>
             <p className="text-base text-gray-600">
               Education: <a href="https://example.com" className="text-blue-500">Can Tho FPT Education</a>
